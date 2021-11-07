@@ -1,1 +1,1 @@
-# vuePractice
+# Vue.js 공부 (인프런 캡틴 판교님 강의)
